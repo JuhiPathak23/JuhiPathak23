@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NVIDIA GRIL Program, ML**
 
-- 📝 I will write articles on [https://medium.com/@pathakkakul](https://medium.com/@pathakkakul)
+- 📝 I will write articles on [https://medium.com/@pathakkakul](https://medium.com/@juhipathak23)
 
 - 💬 Ask me about **ML, Graphic Designing, Content Writing**
 
