@@ -310,11 +310,9 @@ const Juhi = {
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuhiPathak23&theme=tokyonight&hide_border=true" align="left" width="400" alt="Juhi Pathak"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuhiPathak23&theme=tokyonight&hide_border=true" align="left" width="450" alt="Juhi Pathak"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juhipathak23&show_icons=true&locale=en&layout=compact&theme=tokyonight" align="center" width="300"  alt="Juhi Pathak"/>
 </p>
-
-<br>
 
 ----------------------
 
