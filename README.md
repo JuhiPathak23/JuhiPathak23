@@ -1,5 +1,6 @@
-![logo](https://github.com/JuhiPathak23/JuhiPathak23/blob/main/github-banner.png)
-<h1 align="center">Hi 👋, I'm Juhi Pathak</h1>
+![logo](https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/a1720865-4800-42f7-a153-501b82da1b82)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
 <h3 align="center">CSE Undergrad, 3rd Year | Lead at Google Developer Student Club, GLBITM | Ex-SDE Intern at Cognizant</h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
@@ -10,7 +11,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 📝 I will write articles on [https://medium.com/@juhipathak23](https://medium.com/@juhipathak23)
+- 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
 - 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
 
@@ -19,30 +20,11 @@
 - ⚡ Fun fact **I am a big Harry Potter fan! Expecto Patronum**
 
 -----------------------
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/the_loneartist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_loneartist" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juhi pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juhi pathak" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/juhi pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="juhi pathak" height="30" width="40" /></a>
-<a href="https://kaggle.com/juhipathak323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="juhipathak323" height="30" width="40" /></a>
-<a href="https://instagram.com/thelone.artist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thelone.artist" height="30" width="40" /></a>
-<a href="https://medium.com/@pathakkakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pathakkakul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the lone artist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the lone artist" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/theloneartist" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="theloneartist" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pathakkakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pathakkakul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/juhipathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="juhipathak" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pathakjuhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pathakjuhi" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@pathakkakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pathakkakul" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/pathakkakul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pathakkakul" height="30" width="40" /></a>
-<a href="https://discord.gg/7346" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7346" height="30" width="40" /></a>
-</p>
-
-#### A little more about me
+### A little more about me
 ```javascript
 const Juhi = {
   pronouns: "She" | "Her",
-  code: ["C++", "Python", "Java", Javascript", "HTML", "CSS"],
+  code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
   askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
@@ -50,9 +32,20 @@ const Juhi = {
   }
 }
 ```
+------------------
+## :mailbox: Get In Touch
+<div align="center">
+<table border="0">
+  <tr>
+    <td> <a href="https://linkedin.com/in/juhi pathak" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-Juhi Pathak-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://twitter.com/the_loneartist" target="_blank"> <img src="https://img.shields.io/badge/Twitter-The_LoneArtist-%23FC5531?style=for-the-badge""> </a> </td>
+    <td> <a href="https://discord.gg/7346" target="_blank">  <img src="https://img.shields.io/badge/Discord-TheLoneArtist-%23FC5531?style=for-the-badge"> </a> </td>
+    <td> <a href="https://medium.com/@pathakkakul" target="_blank">  <img src="https://img.shields.io/badge/Medium-Pathakkakul-%23FC5531?style=for-the-badge"> </a> </td>
+    </tr>
+</table>
+</div>
+
 ## Education
-
-
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
 <td valign="top" width="50%">
