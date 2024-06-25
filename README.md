@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Juhi Pathak</h1>
 <h3 align="center">CSE Undergrad, 3rd Year | Lead at Google Developer Student Club, GLBITM | Ex-SDE Intern at Cognizant</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/fe82a06e-2b19-48dd-bbc9-1c3ea4376626">
+<img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-- 🔭 I’m currently working on **EcoParali**
+- 🔭 I’m currently working on **EcoParali**, sponsored by GoI
 
-- 🌱 I’m currently learning **NVIDIA GRIL Program, ML**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 📝 I will write articles on [https://medium.com/@juhipathak23](https://medium.com/@juhipathak23)
 
-- 💬 Ask me about **ML, Graphic Designing, Content Writing**
+- 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
 
 - 📫 How to reach me **pathakkakul@gmail.com**
 
