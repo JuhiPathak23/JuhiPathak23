@@ -42,7 +42,7 @@ const Juhi = {
 <td valign="top" width="50%">
   
 <!-- START_SECTION:blog -->
-| Qualification | Studied at | Institute | Affliated by | Year of Study | Percentage |
+| Qualification | Studied at | Institute | Affiliated by | Year of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
 | B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | G. L. Bajaj Institute of Tech. and Mgmt. | AKTU | Nov 2021 - Present | 8.95 CGPA |
 | Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | GRM School, Bareilly | CBSE | 2020 - 2021 | 98.4 |
