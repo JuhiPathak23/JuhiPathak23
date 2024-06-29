@@ -26,7 +26,7 @@
 const Juhi = {
   pronouns: "She" | "Her",
   code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP"],
+  askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP", "Figma"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
       backend: ["GCP", "AIML", "Databases"],
