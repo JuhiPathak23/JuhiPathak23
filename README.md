@@ -272,7 +272,6 @@ const Juhi = {
 <a href="https://www.selenium.dev" target="_blank"><img alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?logo=selenium&logoColor=white"></a>
 <a href="https://www.anaconda.com" target="_blank"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white"></a>
 <a href="https://kafka.apache.org" target="_blank"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?logo=apachekafka"></a>
-<a href="https://www.djangoproject.com" target="_blank"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"></a>
 <a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white"></a>
 <a href="https://numpy.org" target="_blank"><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org" target="_blank"><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>
