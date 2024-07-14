@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Neural Networks**
 
-- 📝 I will write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
+- 📝 I write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
 - 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
 
