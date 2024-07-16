@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **EcoParali**, sponsored by GoI
 
-- 🌱 I’m currently learning **Neural Networks**
+- 🌱 I’m currently learning **Neural Networks & Cloud Computing**
 
 - 📝 I write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
