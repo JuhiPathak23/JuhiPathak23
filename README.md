@@ -13,7 +13,7 @@
 
 - 📝 I write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
-- 💬 Ask me about **Full Stack Dev, AIML, Graphic Designing**
+- 💬 Ask me about **Full Stack Development, AIML, Graphic Designing**
 
 - 📫 How to reach me: **pathakkakul@gmail.com**
 
