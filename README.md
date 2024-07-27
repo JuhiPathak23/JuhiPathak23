@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-- 🔭 I’m currently working on **EcoParali**, sponsored by GoI
+- 🔭 I’m currently working on **EcoParali**, sponsored by GoI, National Winner at Hackfest'24 organized by SAP 
 
 - 🌱 I’m currently learning **Neural Networks & Cloud Computing**
 
