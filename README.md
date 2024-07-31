@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **EcoParali**, sponsored by GoI, National Winner at Hackfest'24 organized by SAP and Patented by GoI
 
-- 🌱 I’m currently learning **Neural Networks & Cloud Computing**
+- 🌱 I’m currently learning **Neural Networks, AI/ML, Cloud Computing**
 
 - 📝 I like to write articles on <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
