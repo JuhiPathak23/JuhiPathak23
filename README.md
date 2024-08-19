@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Full Stack Development, Graphic Designing, Literature and Poetry**
 
-- 📫 How to reach me: **pathakkakul@gmail.com**
+- 📫 Reach me at: **pathakkakul@gmail.com**
 
 - ⚡ Fun fact: **I am a big Harry Potter fan! Expecto Patronum ⚡!!!**
 
