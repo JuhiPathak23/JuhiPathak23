@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-- 🔭 I’m currently working on **EcoParali**, sponsored by GoI, National Winner at Hackfest 2024 organized by SAP at PSGiTech, Coimbatore, and Patented by Government of India on 5th July, 2024
+- 🔭 I’m currently working on **EcoParali**, sponsored by GoI, National Winner at Hackfest 2024 organized by SAP at PSGiTech, Coimbatore, and Patented by Government of India on 5th July, 2024.
 
 - 🌱 I’m currently learning **AI/ML, Cloud Computing**
 
