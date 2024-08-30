@@ -29,7 +29,7 @@ const JuhiPathak= {
   askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP", "Figma"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap"],
-      backend: ["GCP", "AIML", "Databases"],
+      backend: ["Google Cloud", "AIML", "Databases"],
   }
 }
 ```
