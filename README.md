@@ -17,7 +17,7 @@
 
 - 📫 Reach me at: **pathakkakul@gmail.com**
 
-- ⚡ Fun fact: **I am a big Harry Potter fan! Expecto Patronum ⚡!!!**
+- ⚡ Fun fact: **I am a big Harry Potter fan! Expecto Patronum ⚡!!!!!**
 
 -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A wee bit about Myself :)</b>
