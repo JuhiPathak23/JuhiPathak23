@@ -23,7 +23,7 @@
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A wee bit about Myself :)</b>
 
 ```javascript
-const JuhiPathak= {
+const Juhi_Pathak= {
   pronouns: "She" | "Her",
   code: ["C++", "Python", "Java", "Javascript", "HTML", "CSS", "MySQL"],
   askMeAbout: ["Web Dev", "Frontend Dev", "Python", "AIML", "GCP", "Figma"],
