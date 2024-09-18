@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on: **EcoParali**, sponsored by GoI, National Winner at Hackfest 2024 organized by SAP at PSGiTech, Coimbatore, & Patented by Government of India on 5th July, 2024. Making Daak Dost's SAATHI on the go!
 
-- 🌱 I’m currently learning: **AI/ML, Cloud Computing**
+- 🌱 I’m currently learning: **AI & ML, Cloud Computing**
 
 - 📝 I like to write articles on: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
