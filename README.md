@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
-- 🔭 I’m currently working on: **EcoParali**, sponsored by GoI, National Winner at Hackfest'24 organized by SAP at PSGiTech, Coimbatore, & Patented by Government of India on 5th July, 2024. Making Daak Dost's SAATHI (Philatelist Platform) on the go!
+- 🔭 I am currently working on: **EcoParali**, sponsored by GoI, National Winner at Hackfest'24 organized by SAP at PSGiTech, Coimbatore, & Patented by Government of India on 5th July, 2024. Making Daak Dost's SAATHI (Philatelist Platform) on the go!
 
-- 🌱 I’m currently learning: **AI & ML, Cloud Computing**
+- 🌱 I am currently learning: **AI & ML, Cloud Computing**
 
 - 📝 I like to write articles on: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
