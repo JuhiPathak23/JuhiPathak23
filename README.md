@@ -54,7 +54,7 @@ const Juhi_Pathak= {
 </table>  
 
 -------------------
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25">  <b>Competitive Programming :)</b>
 <br>
 
 <p align="left"> 
