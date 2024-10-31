@@ -12,7 +12,7 @@
 
 - 🌱 I am currently learning: **AI & ML, Cloud Computing**
 
-- 📝 I like to write articles on: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
+- 📝 I write articles on: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
 - 💬 Ask me about: **Full Stack Development, Graphic Design, Literature & Poetry**
 
