@@ -1,7 +1,7 @@
 ![logo](https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/a1720865-4800-42f7-a153-501b82da1b82)
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=50&lines=I'm+Juhi+Pathak;I'm+Software+Developer;I'm+Frontend+Developer;I'm+Graphic+Designer;I'm+@+thelone.artist"></p>
-<h3 align="center">SDE-Intern @ Swiggy (PAYMENTS TEAM) | CSE Core, Final Year, Batch of 2021-2025 | Lead at Google DSC'2023-24 | Ex-SDE Intern @ Cognizant | Ex-Technical Writer Intern @ CodingNinjas | IEEE Student Branch Chapter Secretary </h3>
+<h3 align="center">SDE-Intern @ Swiggy (PAYMENTS TEAM) | CSE Core, Final Year, Batch of 2021-2025 | Lead at Google DSC'2023-24 | Ex-SDE Intern @ Cognizant | Ex-Technical Writer Intern @ CodingNinjas | IEEE Student Branch Chapter Secretary 2024 </h3>
 
 <img align="right" alt="coding" width="500" src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/684bf8fe-e293-4001-a8bd-9e5e43925898">
 
