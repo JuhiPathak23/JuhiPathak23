@@ -10,7 +10,7 @@
 - 🔭 I am working on: **EcoParali**, sponsored by Government of India, National Winner at Hackfest 2024 by SAP at PSGiTech, Coimbatore, TN and Patented by Government of India on 5th July 2024. Designed SAATHI-Philatelist Community Platform !
 -  Mentor at GirlScript Summer Of Code, 2024!
 
-- 🌱 I am currently learning: **AI & ML, GCP, AWS**
+- 🌱 I am currently learning: **AI&ML, GCP, AWS**
 
 - 📝 I write articles here: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
