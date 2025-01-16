@@ -14,7 +14,7 @@
 
 - 📝 I write articles here: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
-- 💬 Ask me about: **Full Stack Development, Graphic Designing, Literature & Poetry (Songwriting too)**
+- 💬 Ask me about: **Full Stack Development, Graphic Designing, Literature & Poetry (Songwriting too), Music**
 
 - 📫 Reach out to me: **pathakkakul@gmail.com** (@thelone.artist)
 
