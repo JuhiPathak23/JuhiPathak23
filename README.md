@@ -301,7 +301,7 @@ const Juhi_Pathak= {
 
 ------------------------
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats!</b>
 
 
 <p align="center">
