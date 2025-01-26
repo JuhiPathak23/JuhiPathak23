@@ -21,7 +21,7 @@
 - ⚡ Fun fact: **I am a Harry Potter fanatic! Expecto Patronum⚡!**
 
 -----------------------
-## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A little bit about myself :)</b>
+## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A bit about myself :)</b>
 
 ```javascript
 const Juhi_Pathak= {
