@@ -20,7 +20,7 @@
 
 - 📫 Reach out to me: **pathakkakul@gmail.com** (@thelone.artist)
 
-- ⚡ Fun fact: **I am a Harry Potter fanatic! Expecto Patronum⚡!**
+- ⚡ Fun fact: **I am a Harry Potter fan! Expecto Patronum⚡!**
 
 -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b>A bit about myself :)</b>
