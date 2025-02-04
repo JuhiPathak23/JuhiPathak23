@@ -32,7 +32,7 @@ const Juhi_Pathak= {
   askMeAbout: ["Web Dev", "Frontend Development", "Python", "AIML", "GCP", "Figma", "Harry Potter", "Books", "Poetry"],
   technologies: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
-      backend: ["Google Cloud", "AI&ML", "Databases"],
+      backend: ["Google Cloud", "AI&ML", "Databases", "APIs"],
   }
 }
 ```
