@@ -18,7 +18,7 @@
 
 - 💬 Ask me about: **Full Stack Development, Graphic Designing, Literature & Poetry (Songwriting too), Music**
 
-- 📫 Reach out to me: **pathakkakul@gmail.com** (@thelone.artist)
+- 📫 Reach out to me: **pathakkakul@gmail.com** (or @thelone.artist)
 
 - ⚡ Fun fact: **I am a Harry Potter fan! Expecto Patronum⚡!!**
 
