@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhipathak23&label=Profile%20views&color=0e75b6&style=flat" alt="juhipathak23" width="150"/> </p>
 
 - 🔭 I'm working on: **EcoParali**, sponsored by Government of India, National Winner at Hackfest 2024 by SAP at PSGiTech, Coimbatore, Tamil Nadu and Patented by GoI on 5th July 2024. Designed SAATHI-Philatelist Community Platform!
--  Mentor at GirlScript Summer Of Code, 2024!
+-  Mentor at GirlScript Summer Of Code, 2024
 
 -  Active IEEE member
 
