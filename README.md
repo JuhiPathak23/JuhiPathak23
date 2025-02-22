@@ -12,7 +12,7 @@
 
 -  Active IEEE member
 
-- 🌱 I am currently learning: **AIML, DL, GCP, AWS, GoLang, DS, German**
+- 🌱 I am currently learning: **AIML, DL, GCP, AWS, GoLang, DS, German, Piano**
 
 - 📝 I write articles here: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
