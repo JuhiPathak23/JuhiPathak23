@@ -29,7 +29,7 @@
 const Juhi_Pathak= {
   pronouns: "She" | "Her",
   code: ["C++", "Python", "Java", "JS", "HTML", "CSS", "MySQL"],
-  askMeAbout: ["Development", "AIML", "GCP", "Designing", "Harry Potter", "Books", "Poetry"],
+  askMeAbout: ["Software Development", "AIML", "GCP", "Designing", "Harry Potter", "Books", "Poetry"],
   tech: {
       frontend: ["HTML", "CSS", "JS", "Bootstrap", "React"],
       backend: ["Google Cloud", "AI & ML", "Databases", "APIs"],
