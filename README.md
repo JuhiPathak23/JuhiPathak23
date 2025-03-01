@@ -38,7 +38,7 @@ const Juhi_Pathak= {
 ```
 ------------------
 
-## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b> Education </b>
+## <img src="https://vectorified.com/images/free-education-icon-12.png" width="25">  <b> Educational details </b>
 <br>
 <table width="100%" align="center" padding="0" margin="0">
 <tr>
