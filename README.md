@@ -9,7 +9,7 @@
 
 - 🔭 I am working on **EcoParali**, sponsored by Government of India, National Winner at Hackfest 2024 by SAP at PSGiTech, Coimbatore, Tamil Nadu & Patented on 5th July 2024. Designed SAATHI-Philatelist Community Platform!
 
--  Mentored at GirlScript Summer Of Code, 2024
+-  Mentored at GirlScript Summer Of Code, 2024.
 
 -  Active IEEE Member, published 1 Research paper.
 
