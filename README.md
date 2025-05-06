@@ -21,7 +21,7 @@
 
 - 📫 Reach out to me at **pathakkakul@gmail.com** (@thelone.artist on IG)
 
-- ⚡ Fun fact: **I am a Harry Potter fan!!! Expecto Patronum⚡!!**
+- ⚡ Fun fact: **I am a Harry Potter fan!!! Expecto Patronum⚡!**
 
 - Avid Reader / Book Gobbler
 
