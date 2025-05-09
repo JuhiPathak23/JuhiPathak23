@@ -75,7 +75,7 @@ const Juhi_Pathak= {
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills that make me TECH-SAVVY ;)</b>
 
-### 📋 Programming languages I have played with :))
+### 📋 Programming languages I have played with :)
 
 <p align="left"> 
   <a href="https://www.cprogramming.com/" target="_blank"> 
