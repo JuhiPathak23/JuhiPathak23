@@ -11,7 +11,7 @@
 
 -  Mentored at GirlScript Summer Of Code 2024
 
--  Active IEEE Member, published 1 Research paper on SUSTAINABILITY.
+-  Active IEEE Member, published 1 Research paper on SUSTAINABILITY
 
 - 🌱 I am currently learning: **AIML, GCP, AWS, GoLang, DS, German, playing Piano**
 
