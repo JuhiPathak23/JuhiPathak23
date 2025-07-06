@@ -11,7 +11,7 @@
 
 -  Mentor at GirlScript Summer of Code 2024.
 
--  LinkedIn Top Voice x 12
+-  LinkedIn Top Voice x 12.
 
 -  Active IEEE Member, published 1 Research paper on SUSTAINABILITY.
 
