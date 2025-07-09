@@ -11,8 +11,6 @@
 
 -  Mentor at GirlScript Summer of Code 2024.
 
--  LinkedIn Top Voice x 12.
-
 -  Active IEEE Member, published 1 Research paper on SUSTAINABILITY.
 
 - 🌱 I am currently learning: **AIML, GCP, AWS, GoLang, DS, German, playing Guitar & Piano**.
