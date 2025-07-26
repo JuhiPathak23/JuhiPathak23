@@ -13,7 +13,7 @@
 
 -  Active IEEE Member, published 1 Research paper on SUSTAINABILITY.
 
-- 🌱 I am currently learning: **AIML, GCP, AWS, GoLang, DS, German, playing Guitar & Piano, Badminton**.
+- 🌱 I am currently learning: **AIML, GCP, AWS, GoLang, DS, German, playing Guitar & Piano, Badminton**
 
 - 📝 I write articles here: <a href="https://medium.com/@juhipathak23](https://medium.com/@juhipathak23">Medium</a>
 
