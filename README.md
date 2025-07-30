@@ -25,7 +25,7 @@
 
 - I write poems
 
-- Avid Reader/Book Gobbler :D
+- Avid Reader / Book Gobbler :D
 
 -----------------------
 ## <img src="https://cdn-icons-png.flaticon.com/512/5969/5969702.png" width="25">  <b> A bit about myself </b>
