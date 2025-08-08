@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact: **I am a Harry Potter fanatic! Expecto Patronum⚡**
 
-- I write poems
+- I write poems!
 
 - Avid Reader / Book Gobbler :D
 
