@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact: **I am a Harry Potter fanatic! Expecto Patronum!⚡**
 
-- I write poems | Pathak
+- I write poems | Pathak.
 
 - Avid Reader / Book Gobbler :D
 
