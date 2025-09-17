@@ -9,7 +9,7 @@
 
 - 🔭 I am working to build **EcoParali** sponsored by Government of India, National Winner (AIR-6) at Hackfest 2024 by SAP at PSGiTech Coimbatore, Tamil Nadu & Patented in July, 2024
 
--  Mentor at GirlScript Summer of Code, 2024.
+-  Mentor at GirlScript Summer of Code, 2024
 
 -  Active IEEE Member, published 1 Research Paper on SUSTAINABILITY & Environmental Welfare 
 
