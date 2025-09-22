@@ -50,7 +50,7 @@ const Juhi_Pathak= {
 <td valign="top" width="50%">
   
 <!-- START_SECTION:blog -->
-| Qualification | Studied At | Institute | Affiliated By | Year of Study | Percentage |
+| Qualification | Studied At | Institute | Affiliated By | Year Of Study | Percentage |
 | :-: | :---: | :----: | :--: | :--: | :--: |
 | B.Tech CSE | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/89b08ba9-ced9-44ed-88c2-9f1902fd16c1" width="40" height="30"> | GL Bajaj Institute of Tech. and Mgmt. | AKTU | Nov 2021-Jun 2025 | 9 CGPA |
 | Intermediate | <img src="https://github.com/JuhiPathak23/JuhiPathak23/assets/73741643/cd162930-387d-453a-bfe3-fc75b06a77dc" width="40" height="30"> | GRM School, Bareilly | CBSE | 2020-2021 | 98.4 % |
